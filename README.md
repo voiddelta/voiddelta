@@ -1,6 +1,6 @@
 # gnome dance
 
-Live demo: http://joric.github.io/dance
+Live demo: http://voiddelta.github.io/dance
 
 ## References
-* https://github.com/joric/gnome
+* https://github.com/voiddelta/gnome
